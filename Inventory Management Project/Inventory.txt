@@ -1,0 +1,5 @@
+1,5 Star,5,0
+2,LotteChokoPie,5,100
+3,Dairy Milk,10,100
+4,Parle-G,5,120
+5,Happy-Happy,5,150
